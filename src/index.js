@@ -16,6 +16,6 @@ const template = (
 ReactDOM.render(
   template,
   document.querySelector(
-    '#fromjs'
+    'events'
   )
 );
