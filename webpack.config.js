@@ -46,6 +46,7 @@ module.exports = {
           './EventsIndex':
             './src/index.js',
         },
+        shared: ['react'],
       }
     ),
     new HtmlWebpackPlugin({
